@@ -1,0 +1,18 @@
+.header-logo button {
+    height: 2rem;
+    margin-top: 5px;
+
+}
+.btn-secondary a  {
+    text-decoration:none;
+    color: rgb(255, 255, 255);
+    
+}
+
+.admin{
+    margin-left: 90%;
+}
+.fa{
+    padding-left: 2px;
+    color: rgb(194, 189, 189);
+}

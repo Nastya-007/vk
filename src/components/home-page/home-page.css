@@ -1,0 +1,15 @@
+.home-page {
+    text-align: center;
+    padding-top: 9%;
+
+}
+.wel {
+    font-weight: bold;
+}
+.text{
+    font-size: 18px;
+}
+.btn a {
+    text-decoration:none;
+    color: rgb(255, 255, 255);
+}
